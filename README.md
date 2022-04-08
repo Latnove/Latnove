@@ -1,4 +1,4 @@
-<img class="test" src="./assets/cyber.gif" alt="CyberPank" width='100%' max-height="500" height="auto">
+<img class="test" src="./assets/cyber.gif" alt="CyberPank" width='100%' max-height="500px">
 <img src="./assets/hand-wave.gif" alt="Hand wave" width='40' align="left"/>
 <h2>Hey there! I'm Bulat</h2>
 
@@ -13,8 +13,8 @@
 - 💥 I started studying on August 1, 2021.
 
 
-<img alt="Coding" src="./assets/20ed06db283022697f34602fdba35ae3.gif" align="right" max-width="215"/>
-<img alt="Coding" src="./assets/coding-green.gif" align="right" max-width="215"/>
+<img alt="Coding" src="./assets/20ed06db283022697f34602fdba35ae3.gif" align="right" width="215px"/>
+<img alt="Coding" src="./assets/coding-green.gif" align="right" width="215px"/>
 
 ### 🛠 &nbsp;Tech Stack
 
