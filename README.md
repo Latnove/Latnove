@@ -12,7 +12,7 @@
 - 💥 I started studying on August 1, 2021.
 
 
-<!-- <img alt="Coding" src="./assets/20ed06db283022697f34602fdba35ae3.gif" align="right" width="215"/> -->
+<img alt="Coding" src="./assets/20ed06db283022697f34602fdba35ae3.gif" align="right" width="215"/>
 <img alt="Coding" src="./assets/coding-green.gif" align="right" width="215"/>
 
 ### 🛠 &nbsp;Tech Stack
@@ -31,8 +31,8 @@
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Latnove&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Latnove&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Latnove&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Latnove&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
