@@ -1,4 +1,4 @@
-### <img src="./assets/Z5cP.gif" alt="Penguin" width='40' /> Hi there
+### <div display="flex" align-items="center"><img src="./assets/Z5cP.gif" alt="Penguin" width='40' /> <h1>Hi there</h1></div>
 
 <!--
 **Latnove/Latnove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
