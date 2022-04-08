@@ -1,4 +1,4 @@
-### <img src="./assets/hand-wave.gif" alt="Hand wave" width='40' align="left" margin-top="auto" margin-bottom="auto"/><h2>Hey there! I'm Bulat</h2>
+### <div dispaly="flex" align-items="center"><img src="./assets/hand-wave.gif" alt="Hand wave" width='40' align="left"/><h2>Hey there! I'm Bulat</h2></div>
 
 <!--
 **Latnove/Latnove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
