@@ -1,4 +1,4 @@
-### <h2>Hey there! I'm Bulat</h2>
+### <img src="./assets/hand-wave.gif" alt="Hand wave"/><h2>Hey there! I'm Bulat</h2>
 
 <!--
 **Latnove/Latnove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
