@@ -1,3 +1,4 @@
+./assets/cyber.gif
 ### <div dispaly="flex" align-items="center"><img src="./assets/hand-wave.gif" alt="Hand wave" width='40' align="left"/><h2>Hey there! I'm Bulat</h2></div>
 
 <!--
