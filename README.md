@@ -13,8 +13,8 @@
 - 💥 I started studying on August 1, 2021.
 
 
-<img alt="Coding" src="./assets/20ed06db283022697f34602fdba35ae3.gif" align="right" width="260px" height="170px"/>
-<img alt="Coding" src="./assets/coding-green.gif" align="right" width="260px" height="170px"/>
+<img alt="Coding" src="./assets/20ed06db283022697f34602fdba35ae3.gif" align="right" width="270px" height="170px"/>
+<img alt="Coding" src="./assets/coding-green.gif" align="right" width="270px" height="170px"/>
 
 ### 🛠 &nbsp;Tech Stack
 
