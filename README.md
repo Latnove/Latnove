@@ -12,9 +12,11 @@
 - ⚡ Fun fact: I am now 15 years old.
 - 💥 I started studying on August 1, 2021.
 
+<div flex align="center">
+  <img alt="Coding" src="./assets/20ed06db283022697f34602fdba35ae3.gif" align="right" width="270px" height="170px"/>
+  <img alt="Coding" src="./assets/coding-green.gif" align="right" width="270px" height="170px"/>
+</div>
 
-<img alt="Coding" src="./assets/20ed06db283022697f34602fdba35ae3.gif" align="right" width="270px" height="170px"/>
-<img alt="Coding" src="./assets/coding-green.gif" align="right" width="270px" height="170px"/>
 
 ### 🛠 &nbsp;Tech Stack
 
