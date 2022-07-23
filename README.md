@@ -9,7 +9,7 @@
 - ✍️ In my free time I do my favorite pet projects, learn something new, develop.
 - 🤔 Maybe I can help you with your problem, but I'm not sure😁
 - 📫 You can contact and chat with me using the links below.
-- ⚡ Fun fact: I am now 15 years old.
+- ⚡ Fun fact: I am now 16 years old.
 - 💥 I started studying on August 1, 2021.
 
 <div flex align="center">
